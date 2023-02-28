@@ -1,4 +1,4 @@
-# Assignment 5
+# SS Encryption
 
 ## Short Description:
 	This program has 3 separate parts. Key generation, Encryption, and Decryption.

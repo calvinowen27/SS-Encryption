@@ -11,8 +11,8 @@
 	to the specified output file.
 
 ## Build:
-	To build, run '$ make' or '$ make all' on the command line within assignment
-	5's directory. This will create 3 executable files called 'keygen', 'encrypt',
+	To build, run '$ make' or '$ make all' on the command line within the ss encryption
+	directory. This will create 3 executable files called 'keygen', 'encrypt',
 	and 'decrypt' which can be run using optional parameters. Additionally, you can
 	run '$ make keygen', '$ make encrypt', or '$ make decrypt' in order to create
 	each executable individually.
